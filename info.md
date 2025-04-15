@@ -12,6 +12,43 @@
 - Practice arithmetic operators, conditional statements, and loops
 - Understand how input/output works in JavaScript
 
+#### Updated Folder & File Structure
+
+1. Create a new GitHub repository and name it:
+JavaScript
+2. Inside the repository, create a folder named:
+basic
+3. Inside the basic folder: Create an HTML file (e.g., index.html) with a ```<h1>``` that says:
+"Learning JavaScript Basics".
+4. Create separate JavaScript files for each exercise:
+
+    exercise1.js
+
+    exercise2.js
+
+    exercise3.js
+
+    ...
+
+    exercise7.js
+
+    exercise8.js
+
+**Tip:** _You can test your code using your browser by linking any of the JS files in your HTML file like this:_
+
+```html
+<script src="exercise1.js"></script>
+```
+
+You can switch the src to the file you're testing.
+Example:
+
+```html
+<script src="exercise2.js"></script>
+```
+
+This makes it easier and less messy to run each script one at a time for you.
+
 #### Files to Create
 
 ##### index.html
