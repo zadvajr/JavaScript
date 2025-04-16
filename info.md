@@ -146,6 +146,7 @@ alert("Hello, " + name + "! Welcome to JavaScript.");
 - Use console.log() (not alert)
 
 **Sample Console Output:**
+
 1  
 2  
 3  
