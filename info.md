@@ -147,11 +147,13 @@ alert("Hello, " + name + "! Welcome to JavaScript.");
 
 **Sample Console Output:**
 
+```cmd
 1  
 2  
 3  
 ...  
 10
+```
 
 **Resource:**
 
