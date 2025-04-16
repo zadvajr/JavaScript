@@ -1,5 +1,5 @@
 //Js script to generate multiplication table
-let userInput = prompt("Enter a number")
+let userInput = prompt("Enter a number");
 
 if(userInput === null || userInput.trim() === "") {
     alert("No Inputs Entered! Please run and enter a number.");
